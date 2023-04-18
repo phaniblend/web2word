@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "ChatGPT Capture",
+    "name": "W2W",
     "version": "1.0",
     "description": "A browser extension that captures ChatGPT conversations and saves them as editable Word documents.",
     "icons": {
@@ -24,7 +24,7 @@
         "48": "icons/icon48.png",
         "128": "icons/icon128.png"
       },
-      "default_title": "ChatGPT Capture",
+      "default_title": "W2W",
       "default_popup": "popup.html"
     }
   }
